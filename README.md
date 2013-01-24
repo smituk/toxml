@@ -7,7 +7,7 @@ Convert object to XML easy.
     $ npm install toxml
 
 ## Example
-
+<code>
 var toxml = require('toxml');
 var xml = toxml({
     'root' : {
@@ -24,11 +24,11 @@ var xml = toxml({
         }
     }
 });
-
+</code>
 ## Output
-
+<pre>
 <root><first>param1</first><child xmlns="http://com.example.webservice/" lang="en"><child2>children content</child2><child3>children content</child3></child></root>
-
+</pre>
 ## License
 
 This project is licensed under the MIT license.
