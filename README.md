@@ -1,6 +1,6 @@
 ## toXML
 
-Convert object to XML easy.
+Easily converts object to xml representation.
 
 ## Installation
 
