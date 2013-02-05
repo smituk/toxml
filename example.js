@@ -9,7 +9,8 @@ var xml = toxml({
             },
             '_val' : {
                 'child2' : 'children content',
-                'child3' : 'children content'
+                'child3' : 'children content',
+                'domains' : ['asdasd.com', 'basdda.net']
             }
         }
     }
